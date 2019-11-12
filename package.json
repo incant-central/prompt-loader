@@ -1,6 +1,6 @@
 {
   "name": "@incant/prompt-loader",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Prompt loader for Incant",
   "main": "index.js",
   "scripts": {
